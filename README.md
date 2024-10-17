@@ -41,3 +41,5 @@ Use the following parameter values:
 
 - Ensure that the module DLL is located in the same directory as the main application.
 - You will need to implement your own checks to verify that Roblox is open before initiating the injection process.
+
+Made by Nitro
